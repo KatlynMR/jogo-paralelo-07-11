@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 0689e5e682c04d441bf748ebb60b2eb1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 296
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be24d08b6fb0d2409ae088e9b8c0284
+      internalID: -471507057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_1"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 121
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7b4eeb0917f147b614bfae61fc764
+      internalID: 224346780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_2"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 115
+        width: 300
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba59be46e759ad4aad1fccf9a98bcef
+      internalID: 1903580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_3"
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 109
+        width: 300
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd841812aff9d574496fbd207f2ba735
+      internalID: -689259723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_4"
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 103
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc185e971e0e248b2029dd66b2a3f4
+      internalID: 1058739384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_5"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 92
+        width: 299
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf5a062cf10c9d4d8ef1f97a5c211e5
+      internalID: 1762582988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_6"
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 97
+        width: 303
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3c543fc8ac82499ff0e4d49609fec
+      internalID: -1792602221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_7"
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 97
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b97556b8ec4b4c9f104b81806b271
+      internalID: 2099859176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_8"
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 98
+        width: 304
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970435ffb23e4464197c86d161a8e311
+      internalID: -1966951443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_9"
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 97
+        width: 300
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71b8910f5b1981479071cd1cf1a06c9
+      internalID: 566149882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_10"
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 97
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82cec3d080bac44be03961c3d71f27
+      internalID: -1260788889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_11"
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 97
+        width: 300
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb71ed7819f13479872c5dc55c5ec6
+      internalID: -2017017591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_12"
+      rect:
+        serializedVersion: 2
+        x: 6682
+        y: 51
+        width: 340
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9553e71036e7f5647aa4ac337bb50bb4
+      internalID: 181403330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_13"
+      rect:
+        serializedVersion: 2
+        x: 7057
+        y: 21
+        width: 364
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8761c5e025a04e9b23f564f9a731c
+      internalID: 1682293712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_14"
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 0
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78833efecbcb3b4884de1b249701980
+      internalID: 460376190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_16"
+      rect:
+        serializedVersion: 2
+        x: 8496
+        y: 0
+        width: 333
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64680ae074bf74c9dee5dfa77dba2d
+      internalID: -1285827934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_18"
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 91
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77996707c2b80459d8e1d914b8bbfc
+      internalID: 411771406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_19"
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 80
+        width: 300
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec47fee56402e9478ca022fce893f14
+      internalID: 2140131102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_20"
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 85
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7cf0ff69168e4ca5fde5e7fe7f9af
+      internalID: -1244992832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_21"
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 79
+        width: 299
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d2126d0166c9a4384feb7e9898aa90
+      internalID: -853476856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_22"
+      rect:
+        serializedVersion: 2
+        x: 4796
+        y: 74
+        width: 299
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6a47821a3c034cacaa5c32de5364d
+      internalID: -2080865331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_23"
+      rect:
+        serializedVersion: 2
+        x: 5102
+        y: 74
+        width: 301
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66520593ea821c43bc91833ae35548d
+      internalID: 507016201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_24"
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 71
+        width: 299
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe456e5fc58a94f4086532825277240b
+      internalID: 555541746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_25"
+      rect:
+        serializedVersion: 2
+        x: 5706
+        y: 74
+        width: 300
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e98655892f5f4ea81b9164ced7327
+      internalID: -695010810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_26"
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 65
+        width: 311
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbb71c412a49146a97eeb9fa90d8ba
+      internalID: 503576377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_27"
+      rect:
+        serializedVersion: 2
+        x: 6347
+        y: 56
+        width: 317
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a494ddcfca7304f44b06671d684af74e
+      internalID: 1648730684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_28"
+      rect:
+        serializedVersion: 2
+        x: 8009
+        y: 0
+        width: 364
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59da58e6ba448e44a054540cc028ab7
+      internalID: -323991375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_31"
+      rect:
+        serializedVersion: 2
+        x: 8878
+        y: 6
+        width: 397
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e4cee9c0f69d46bcb1362c1b8a5e1
+      internalID: 9081746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_32"
+      rect:
+        serializedVersion: 2
+        x: 9362
+        y: 57
+        width: 256
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02360e5499bd2c43b58d6691a4f6e5e
+      internalID: 1757322243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_35"
+      rect:
+        serializedVersion: 2
+        x: 10024
+        y: 57
+        width: 197
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeb2119546c0494aa17b54c30fbf55e
+      internalID: 719007737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_38"
+      rect:
+        serializedVersion: 2
+        x: 9712
+        y: 58
+        width: 234
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040560c4b86c2cb41aea83f9d76478b7
+      internalID: 282586603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_39"
+      rect:
+        serializedVersion: 2
+        x: 10276
+        y: 110
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d908a582103a9b6408f1ec6f3bc46d0c
+      internalID: 425455627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_40"
+      rect:
+        serializedVersion: 2
+        x: 10493
+        y: 126
+        width: 129
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c5051d66fdef49a8fafbab690a537
+      internalID: -379288122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_41"
+      rect:
+        serializedVersion: 2
+        x: 10676
+        y: 126
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042c86169c08c948a28638db42beeb6
+      internalID: 459753152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_42"
+      rect:
+        serializedVersion: 2
+        x: 10851
+        y: 132
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e60226d5762645b6434ab552cbeb5
+      internalID: 804314267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_43"
+      rect:
+        serializedVersion: 2
+        x: 10984
+        y: 138
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ce9e955f4b9f4386e7b8c2ccb3958
+      internalID: 1256750089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_44"
+      rect:
+        serializedVersion: 2
+        x: 11122
+        y: 150
+        width: 76
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ec61b34b087349a5b6c195e6a1260
+      internalID: 601759823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_45"
+      rect:
+        serializedVersion: 2
+        x: 11233
+        y: 150
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc56ed24b2cc864f85bb10885e716eb
+      internalID: 1353260281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_46"
+      rect:
+        serializedVersion: 2
+        x: 11327
+        y: 150
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357df4cc547d59b4089e5427c5a2c987
+      internalID: -244600546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_47"
+      rect:
+        serializedVersion: 2
+        x: 11427
+        y: 145
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071a9976190dce48a5ba0cb9aaf7168
+      internalID: -2027073011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_48"
+      rect:
+        serializedVersion: 2
+        x: 11521
+        y: 150
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90353074da032024aa964270ce7631d9
+      internalID: 1045553478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_49"
+      rect:
+        serializedVersion: 2
+        x: 11615
+        y: 150
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261eba932c43cae41adfd1f346f9208d
+      internalID: 870065601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_50"
+      rect:
+        serializedVersion: 2
+        x: 11686
+        y: 150
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1933524426d94d9babce3e7234f43
+      internalID: -1020416523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_51"
+      rect:
+        serializedVersion: 2
+        x: 11768
+        y: 156
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c528199e73d35247ac6414e4a563b73
+      internalID: -734439330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_52"
+      rect:
+        serializedVersion: 2
+        x: 11845
+        y: 157
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857c74db822651b4f9cf1684e97c9837
+      internalID: -1367520931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_53"
+      rect:
+        serializedVersion: 2
+        x: 11926
+        y: 162
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267d952d4c26934c908ba62788f186a
+      internalID: 1065136787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o do player 2_55"
+      rect:
+        serializedVersion: 2
+        x: 12003
+        y: 127
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6543ccb194c2642a51efe065e74bc0
+      internalID: -2071418263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "explos\xE3o do player 2_0": -471507057
+      "explos\xE3o do player 2_1": 224346780
+      "explos\xE3o do player 2_10": -1260788889
+      "explos\xE3o do player 2_11": -2017017591
+      "explos\xE3o do player 2_12": 181403330
+      "explos\xE3o do player 2_13": 1682293712
+      "explos\xE3o do player 2_14": 460376190
+      "explos\xE3o do player 2_15": 543471339
+      "explos\xE3o do player 2_16": -1285827934
+      "explos\xE3o do player 2_17": 91750656
+      "explos\xE3o do player 2_18": 411771406
+      "explos\xE3o do player 2_19": 2140131102
+      "explos\xE3o do player 2_2": 1903580289
+      "explos\xE3o do player 2_20": -1244992832
+      "explos\xE3o do player 2_21": -853476856
+      "explos\xE3o do player 2_22": -2080865331
+      "explos\xE3o do player 2_23": 507016201
+      "explos\xE3o do player 2_24": 555541746
+      "explos\xE3o do player 2_25": -695010810
+      "explos\xE3o do player 2_26": 503576377
+      "explos\xE3o do player 2_27": 1648730684
+      "explos\xE3o do player 2_28": -323991375
+      "explos\xE3o do player 2_29": -1968504628
+      "explos\xE3o do player 2_3": -689259723
+      "explos\xE3o do player 2_30": 714177989
+      "explos\xE3o do player 2_31": 9081746
+      "explos\xE3o do player 2_32": 1757322243
+      "explos\xE3o do player 2_33": 1809484295
+      "explos\xE3o do player 2_34": 14112119
+      "explos\xE3o do player 2_35": 719007737
+      "explos\xE3o do player 2_36": 1241235746
+      "explos\xE3o do player 2_37": 616465300
+      "explos\xE3o do player 2_38": 282586603
+      "explos\xE3o do player 2_39": 425455627
+      "explos\xE3o do player 2_4": 1058739384
+      "explos\xE3o do player 2_40": -379288122
+      "explos\xE3o do player 2_41": 459753152
+      "explos\xE3o do player 2_42": 804314267
+      "explos\xE3o do player 2_43": 1256750089
+      "explos\xE3o do player 2_44": 601759823
+      "explos\xE3o do player 2_45": 1353260281
+      "explos\xE3o do player 2_46": -244600546
+      "explos\xE3o do player 2_47": -2027073011
+      "explos\xE3o do player 2_48": 1045553478
+      "explos\xE3o do player 2_49": 870065601
+      "explos\xE3o do player 2_5": 1762582988
+      "explos\xE3o do player 2_50": -1020416523
+      "explos\xE3o do player 2_51": -734439330
+      "explos\xE3o do player 2_52": -1367520931
+      "explos\xE3o do player 2_53": 1065136787
+      "explos\xE3o do player 2_54": 364110208
+      "explos\xE3o do player 2_55": -2071418263
+      "explos\xE3o do player 2_56": 1968454364
+      "explos\xE3o do player 2_57": -468295226
+      "explos\xE3o do player 2_58": -1197753955
+      "explos\xE3o do player 2_59": 86134564
+      "explos\xE3o do player 2_6": -1792602221
+      "explos\xE3o do player 2_60": 1516233096
+      "explos\xE3o do player 2_7": 2099859176
+      "explos\xE3o do player 2_8": -1966951443
+      "explos\xE3o do player 2_9": 566149882
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
