@@ -8,6 +8,9 @@ public class IAInimigo : MonoBehaviour
 
     private float velocidade = 6.0f;
 
+    [SerializeField]
+    private GameObject explosaoDoInimigo;
+
     void Start()
     {
         
@@ -43,7 +46,8 @@ public class IAInimigo : MonoBehaviour
             }
         }
         Destroy(this.gameObject);
-
+        
+        Instantiate(explosaoDoInimigo, transform.position, Quaternion.identity);
     }
 
 

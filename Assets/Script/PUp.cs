@@ -15,6 +15,12 @@ public class PUp : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.left * velocidade * Time.deltaTime);
+
+
+        if (transform.position.y < -5.5f)
+        {
+        Destroy(this.gameObject);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -23,7 +29,8 @@ public class PUp : MonoBehaviour
 
         if ( other.tag == "Player"){
             Player player = other.GetComponent<Player>();
-                if ( player != null ){
+                if ( player != null )
+            {
                 player.LigarPUTiroTriplo();
             }
             

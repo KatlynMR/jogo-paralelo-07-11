@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a799b165c92548447a7e393b7bd0ffcd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 252
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e380f89e30584299a0b29b9773dbf
+      internalID: 261244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_1"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 65
+        width: 259
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc90698438cb24dacb62f3624df760
+      internalID: 977349837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_2"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 255
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d163fedbac274091a0dd6b6a4e8d5
+      internalID: -2129617324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_3"
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 0
+        width: 255
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe0ba80cd11f940bddcf6f67cea853
+      internalID: 1813159969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_4"
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 65
+        width: 259
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96160d2d849c84844ad9d781f8d13b05
+      internalID: -1331273930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_5"
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 65
+        width: 258
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab0bac0564a294893767cb46ba9186
+      internalID: -1720764112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_6"
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 70
+        width: 260
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c1b9dc6427fc946a1ae40c68714b83
+      internalID: -265473950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_7"
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 70
+        width: 269
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03b4aad4b791a478490381475b79cd
+      internalID: -388081401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_8"
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 70
+        width: 279
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a28c49089c2f428a10db677c7c53f
+      internalID: -1356288741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_9"
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 288
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1676fc5883d0534990023a57b8d6b60
+      internalID: -1138970439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_10"
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 0
+        width: 303
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629fa704083e0f4da90a96b1b8e747c
+      internalID: -659692027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_11"
+      rect:
+        serializedVersion: 2
+        x: 5165
+        y: 31
+        width: 331
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4451fb8067db1f145a431724ff6032e5
+      internalID: -1125888820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_12"
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 36
+        width: 331
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddde774e92bbe54ab31a248923c1104
+      internalID: -1433230132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_13"
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 36
+        width: 334
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e223cb6695970489388a547fb39711
+      internalID: -2012364368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_14"
+      rect:
+        serializedVersion: 2
+        x: 6387
+        y: 31
+        width: 346
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d81d3b143575469086cd11fc16f9c
+      internalID: -1556268413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_16"
+      rect:
+        serializedVersion: 2
+        x: 6803
+        y: 16
+        width: 372
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa61b36d361064a9e6ad6bceff462e
+      internalID: 188960170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_18"
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 9
+        width: 394
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9713d496a0881a4abae1be53362d51c
+      internalID: 1969528545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_20"
+      rect:
+        serializedVersion: 2
+        x: 7635
+        y: 0
+        width: 407
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f59e848aa1ce24db166b4864a3b2c1
+      internalID: 1874324133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_22"
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 0
+        width: 384
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83444f394a6371e46a7138c8177e38b6
+      internalID: 1086336659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_24"
+      rect:
+        serializedVersion: 2
+        x: 8524
+        y: 0
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88078934a845d3e419fcf71a046475ab
+      internalID: 879907247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_26"
+      rect:
+        serializedVersion: 2
+        x: 9004
+        y: 0
+        width: 394
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14b46c5d7f1f64b9b75007a25ee382
+      internalID: 1104353151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "explos\xE3o inimigo.png 2_28"
+      rect:
+        serializedVersion: 2
+        x: 9459
+        y: 0
+        width: 394
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cad86bd418d10438a97628e7f7129d
+      internalID: -1799402163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "explos\xE3o inimigo.png 2_0": 261244479
+      "explos\xE3o inimigo.png 2_1": 977349837
+      "explos\xE3o inimigo.png 2_10": -659692027
+      "explos\xE3o inimigo.png 2_11": -1125888820
+      "explos\xE3o inimigo.png 2_12": -1433230132
+      "explos\xE3o inimigo.png 2_13": -2012364368
+      "explos\xE3o inimigo.png 2_14": -1556268413
+      "explos\xE3o inimigo.png 2_15": 1494025444
+      "explos\xE3o inimigo.png 2_16": 188960170
+      "explos\xE3o inimigo.png 2_17": 368237569
+      "explos\xE3o inimigo.png 2_18": 1969528545
+      "explos\xE3o inimigo.png 2_19": 999461475
+      "explos\xE3o inimigo.png 2_2": -2129617324
+      "explos\xE3o inimigo.png 2_20": 1874324133
+      "explos\xE3o inimigo.png 2_21": -974999427
+      "explos\xE3o inimigo.png 2_22": 1086336659
+      "explos\xE3o inimigo.png 2_23": -1666574929
+      "explos\xE3o inimigo.png 2_24": 879907247
+      "explos\xE3o inimigo.png 2_25": 1495217765
+      "explos\xE3o inimigo.png 2_26": 1104353151
+      "explos\xE3o inimigo.png 2_27": -1933691716
+      "explos\xE3o inimigo.png 2_28": -1799402163
+      "explos\xE3o inimigo.png 2_3": 1813159969
+      "explos\xE3o inimigo.png 2_4": -1331273930
+      "explos\xE3o inimigo.png 2_5": -1720764112
+      "explos\xE3o inimigo.png 2_6": -265473950
+      "explos\xE3o inimigo.png 2_7": -388081401
+      "explos\xE3o inimigo.png 2_8": -1356288741
+      "explos\xE3o inimigo.png 2_9": -1138970439
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
