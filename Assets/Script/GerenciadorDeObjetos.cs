@@ -21,7 +21,7 @@ public class GerenciadorDeObjetos : MonoBehaviour
     {
         while ( 1==1)
         {
-            Instantiate(inimigoPrefab, new Vector3(Random.Range(-7.7f, 7.7f), 6.0f, 0), Quaternion.identity);
+            Instantiate(inimigoPrefab, new Vector3(Random.Range(12.0f, 18.0f), Random.Range(-4.0f, 4.0f), 0), Quaternion.identity);
             yield return new WaitForSeconds(6);
 
         }
@@ -33,7 +33,7 @@ public class GerenciadorDeObjetos : MonoBehaviour
         while ( 1==1)
         {
             int powerUpsAleatorio = Random.Range(0, 3);
-            Instantiate(powerUps[powerUpsAleatorio], new Vector3(Random.Range(-7.7f, 7.7f), 6.0f, 0), Quaternion.identity);
+            Instantiate(powerUps[powerUpsAleatorio], new Vector3(Random.Range(12.0f, 18.0f), Random.Range(-4.0f, 4.0f), 0), Quaternion.identity);
             yield return new WaitForSeconds (6);
         }
     }

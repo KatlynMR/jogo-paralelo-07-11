@@ -46,7 +46,7 @@ public class IAInimigo : MonoBehaviour
             }
         }
         Destroy(this.gameObject);
-        
+
         Instantiate(explosaoDoInimigo, transform.position, Quaternion.identity);
     }
 
